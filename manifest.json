@@ -1,0 +1,7 @@
+{
+  "name": "parmalink2hateda",
+  "description": "format twitter parmalink to hatena diary",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background_page": "background.html"
+}
